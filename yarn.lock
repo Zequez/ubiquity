@@ -557,6 +557,13 @@
   resolved "https://registry.yarnpkg.com/@popperjs/core/-/core-2.10.2.tgz#0798c03351f0dea1a5a4cabddf26a55a7cbee590"
   integrity sha512-IXf3XA7+XyN7CP9gGh/XB0UxVMlvARGEgGXLubFICsUMGz6Q+DU+i4gGlpOxTjKvXjkJDJC8YdqdKkDj9qZHEQ==
 
+"@primitivefi/hardhat-dodoc@^0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@primitivefi/hardhat-dodoc/-/hardhat-dodoc-0.1.1.tgz#8d4c1eaec0ddab38740e2f2c415991b7df7f0118"
+  integrity sha512-nQKQcwJ9R2BlC565kEs2ozAVYyeqn0NrLRpjsC+t0MpziZfEfuGcwzM9n00Xlv/FleL+rjNnzeUHNSM11k2ahA==
+  dependencies:
+    squirrelly "^8.0.8"
+
 "@rushstack/eslint-patch@^1.0.6":
   version "1.0.6"
   resolved "https://registry.yarnpkg.com/@rushstack/eslint-patch/-/eslint-patch-1.0.6.tgz#023d72a5c4531b4ce204528971700a78a85a0c50"
@@ -4484,6 +4491,11 @@ sprintf-js@~1.0.2:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/sprintf-js/-/sprintf-js-1.0.3.tgz#04e6926f662895354f3dd015203633b857297e2c"
   integrity sha1-BOaSb2YolTVPPdAVIDYzuFcpfiw=
+
+squirrelly@^8.0.8:
+  version "8.0.8"
+  resolved "https://registry.yarnpkg.com/squirrelly/-/squirrelly-8.0.8.tgz#d6704650b2170b8040d5de5bff9fa69cb62b5e0f"
+  integrity sha512-7dyZJ9Gw86MmH0dYLiESsjGOTj6KG8IWToTaqBuB6LwPI+hyNb6mbQaZwrfnAQ4cMDnSWMUvX/zAYDLTSWLk/w==
 
 stacktrace-parser@0.1.10:
   version "0.1.10"
